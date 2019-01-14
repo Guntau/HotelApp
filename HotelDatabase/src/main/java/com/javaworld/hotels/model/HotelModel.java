@@ -42,7 +42,8 @@ public class HotelModel {
 		new Hotel("Hotel Vendome","Place Vendome","Paris",5),
 		new Hotel("Hotel Hilton","Trafalgar Square","London",4),
 		new Hotel("Hotel Ibis","The City","London",3),
-		new Hotel("Hotel Cigogne","Grand place","Dublin",2)
+		new Hotel("Hotel Cigogne","Grand place","Dublin",2),
+		new Hotel("Hotel Random","3rd Street","New York",5)
 	};
 	
 	/**
