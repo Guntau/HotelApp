@@ -13,5 +13,10 @@ pipeline {
         sh 'mvn package'
       }
     }
+    stage('') {
+      steps {
+        sh 'mvn sonar:sonar'
+      }
+    }
   }
 }
